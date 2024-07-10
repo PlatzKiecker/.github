@@ -1,5 +1,7 @@
 # Welcome to Platz Kiecker
 
+## This is the GitHub profile for Platz Kiecker. Here you'll find information about our projects, contributions, and more.
+
 ### Service Status
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fplatzkiecker.de&logo=react&logoColor=blue&label=frontend)
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fapi.platzkiecker.de%2Fapi%2Fdocs&logo=django&logoColor=white&label=backend)
@@ -10,8 +12,6 @@
 ### CI/CD Status
 [![Build](https://github.com/PlatzKiecker/platzkiecker/actions/workflows/build.yml/badge.svg)](https://github.com/PlatzKiecker/platzkiecker/actions/workflows/build.yml)
 [![Deploy](https://github.com/PlatzKiecker/platzkiecker/actions/workflows/prod.yml/badge.svg)](https://github.com/PlatzKiecker/platzkiecker/actions/workflows/prod.yml)
-
-This is the GitHub profile for Platz Kiecker. Here you'll find information about our projects, contributions, and more.
 
 ## About Us
 
