@@ -12,8 +12,7 @@ Check out our [public repositories](https://github.com/PlatzKiecker) to see what
 
 ## Contributions
 
-We welcome contributions from the community. If you're interested in contributing, please check out our [contribution guidelines](CONTRIBUTING.md).
-
+We welcome contributions from the community. If you're interested in contributing, please contact us.
 ## Contact Us
 
 Feel free to reach out to us via [email](mailto:aaronroters@icloud.com) if you have any questions or inquiries.
