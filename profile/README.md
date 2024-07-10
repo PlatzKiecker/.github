@@ -8,7 +8,7 @@ Platz Kiecker is dedicated to revolutionize the Reservation-Process for Restaura
 
 ## Projects
 
-Check out our [public repositories](https://github.com/PlatzKiecker) to see what we're working on!
+Check out our [public repositories](https://github.com/orgs/PlatzKiecker/repositories) to see what we're working on!
 
 ## Contributions
 
